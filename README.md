@@ -7,12 +7,6 @@ Our project focuses on predicting the total cases of dengue given the environmen
 
 (order of the codes and maybe brief intro)
 
-## Contributors
-
-- Da Jie
-- Zack
-- Xavier
-
 ## Problem Definition
 
 - Can we predict the total number of Dengue cases based on the environmental and climate data?
@@ -41,6 +35,12 @@ Our project focuses on predicting the total cases of dengue given the environmen
 - Support Vector Machine for regression
 - Feature scaling
 - K-Fold Cross Validation
+
+## Contributors
+
+- Da Jie
+- Zack
+- Xavier
 
 ## References
 
