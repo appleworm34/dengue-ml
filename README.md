@@ -49,3 +49,4 @@ Our project focuses on predicting the total cases of dengue given the environmen
 - <https://realpython.com/knn-python/#reader-comments>
 - <https://slidesgo.com/theme/world-mosquito-day#search-mosquito&position-1&results-1>
 - <https://www.analyticsvidhya.com/blog/2021/06/power-of-interpolation-in-python-to-fill-missing-values/>
+- <https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/>
