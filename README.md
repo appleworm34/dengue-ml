@@ -37,6 +37,7 @@ Our project focuses on predicting the total cases of dengue given the environmen
 - Support Vector Machine for regression
 - Feature scaling
 - K-Fold Cross Validation
+- Bagging
 
 ## Contributors
 
