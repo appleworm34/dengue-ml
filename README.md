@@ -3,7 +3,7 @@
 ## About
 
 This is a mini-project for SC1015 (Introduction to Data Science and Artificial Intelligence)
-Our project focuses on the total cases of dengue 
+Our project focuses on predicting the total cases of dengue given the environmental and climate data of a given area.
 
 ## Contributors
 
