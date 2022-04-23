@@ -65,9 +65,9 @@ Order of codes:
 
 ## Contributors
 
-- Da Jie
-- Zack
-- Xavier
+- Da Jie(K-Nearest Neighbours)
+- Zack(Linear Regression)
+- Xavier(Support Vector Machine)
 
 ## References
 
