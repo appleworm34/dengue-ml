@@ -19,6 +19,11 @@ Order of codes:
 5. [Support Vector Machine](https://github.com/appleworm34/dengue-ml/blob/main/Support%20Vector%20Machine.ipynb)
    - (Using Support Vector Machine to predict)
 
+## Background
+- Dengue fever is a disease caused by the dengue virus which is transmitted to humans via the bite of an infective Aedes mosquito.
+- Dengue causes a wide spectrum of disease and in some cases, lead to hospitalisation or death. 
+- Each year, an estimated 390 million dengue infections occur around the world, resulting in up to 36,000 deaths.
+
 ## Problem Definition
 
 - Can we predict the total number of Dengue cases based on the environmental and climate data?
@@ -38,6 +43,11 @@ Order of codes:
 
 - We are able to predict the total cases to a certain extent (MAE of 15.986)
 - Among the models we explored (Linear Regression, K-Nearest Neighbours and Support Vector Machine), SVM was the best to predict the total cases
+
+## Data - Driven Insights
+- We can further explore other models apart from the ones mentioned to find the best model to predict
+- Variables did not have such an obvious relationship as we expected
+- Possible to find more data that could help improve the accuracy of prediction
 
 ## What we learnt from this project:
 
