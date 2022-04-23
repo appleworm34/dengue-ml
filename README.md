@@ -7,7 +7,17 @@ Our project focuses on predicting the total cases of dengue given the environmen
 
 ![image](https://img001.prntscr.com/file/img001/kYbEdGG9Qb-4mVgJcnj2VA.jpeg)
 
-(order of the codes and maybe brief intro)
+Order of codes:
+1. [Data Exploration and Visualisation](https://github.com/appleworm34/dengue-ml/blob/main/Data%20Exploration%20and%20Visualisation.ipynb)
+   - (Explores the dataset using graphs and plots to better understand the relationships and visualise the data we are dealing with)
+2. [Data Cleaning](https://github.com/appleworm34/dengue-ml/blob/main/Data%20Cleaning.ipynb)
+   - (Filling in null values and focusing on important variables)
+3. [Linear Regression](https://github.com/appleworm34/dengue-ml/blob/main/Linear%20Regression.ipynb)
+   - (Using multi-variate Linear Regression to predict)
+4. [K-Nearest Neighbours](https://github.com/appleworm34/dengue-ml/blob/main/K-Nearest%20Neighbours.ipynb)
+   - (Exploring K-Nearest Neighbours and how to improve the model used for prediction)
+5. [Support Vector Machine](https://github.com/appleworm34/dengue-ml/blob/main/Support%20Vector%20Machine.ipynb)
+   - (Using Support Vector Machine to predict)
 
 ## Problem Definition
 
@@ -26,7 +36,8 @@ Our project focuses on predicting the total cases of dengue given the environmen
 
 ## Conclusion
 
-- 
+- We are able to predict the total cases to a certain extent (MAE of 15.986)
+- Among the models we explored (Linear Regression, K-Nearest Neighbours and Support Vector Machine), SVM was the best to predict the total cases
 
 ## What we learnt from this project:
 
@@ -53,3 +64,5 @@ Our project focuses on predicting the total cases of dengue given the environmen
 - <https://slidesgo.com/theme/world-mosquito-day#search-mosquito&position-1&results-1>
 - <https://www.analyticsvidhya.com/blog/2021/06/power-of-interpolation-in-python-to-fill-missing-values/>
 - <https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/>
+- <https://stats.stackexchange.com/questions/82044/how-does-support-vector-regression-work-intuitively>
+- <https://scikit-learn.org/stable/modules/cross_validation.html>
