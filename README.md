@@ -3,6 +3,7 @@
 ## About
 
 This is a mini-project for SC1015 (Introduction to Data Science and Artificial Intelligence)
+
 Our project focuses on predicting the total cases of dengue given the environmental and climate data of a given area.
 
 ![image](https://img001.prntscr.com/file/img001/kYbEdGG9Qb-4mVgJcnj2VA.jpeg)
@@ -24,14 +25,16 @@ Order of codes:
 - Dengue causes a wide spectrum of disease and in some cases, lead to hospitalisation or death. 
 - Each year, an estimated 390 million dengue infections occur around the world, resulting in up to 36,000 deaths.
 
-## Problem Definition
-
-- Can we predict the total number of Dengue cases based on the environmental and climate data?
-- Which model among the ones we selected would be the best to predict it?
 
 ## Data source
 
 - [DrivenData - DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/data/)
+
+
+## Problem Definition
+
+- Can we predict the total number of Dengue cases based on the environmental and climate data?
+- Which model among the ones we selected would be the best to predict it?
 
 ## Models Used
 
