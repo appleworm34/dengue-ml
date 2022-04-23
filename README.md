@@ -16,7 +16,7 @@ Order of codes:
 3. [Linear Regression](https://github.com/appleworm34/dengue-ml/blob/main/Linear%20Regression.ipynb)
    - (Using multi-variate Linear Regression to predict)
 4. [K-Nearest Neighbours](https://github.com/appleworm34/dengue-ml/blob/main/K-Nearest%20Neighbours.ipynb)
-   - (Exploring K-Nearest Neighbours and how to improve the model used for prediction)
+   - (Exploring K-Nearest Neighbours and modifications to improve the model used for prediction)
 5. [Support Vector Machine](https://github.com/appleworm34/dengue-ml/blob/main/Support%20Vector%20Machine.ipynb)
    - (Using Support Vector Machine to predict)
 
