@@ -54,7 +54,7 @@ Order of codes:
 
 ## What we learnt from this project:
 
-- Collaborating using GitHub
+- Collaborating using Google Colaboratory
 - Different methods of filling in NULL values (interpolation)
 - Complete flow of analysing and trying to solve a machine learning problem
 - K-Nearest Neighbours for regression
