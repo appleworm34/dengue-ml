@@ -8,7 +8,7 @@ Our project focuses on predicting the total cases of dengue given the environmen
 
 ![image](https://img001.prntscr.com/file/img001/kYbEdGG9Qb-4mVgJcnj2VA.jpeg)
 
-Order of codes:
+Order of files:
 1. [Data Exploration and Visualisation](https://github.com/appleworm34/dengue-ml/blob/main/Data%20Exploration%20and%20Visualisation.ipynb)
    - (Explores the dataset using graphs and plots to better understand the relationships and visualise the data we are dealing with)
 2. [Data Cleaning](https://github.com/appleworm34/dengue-ml/blob/main/Data%20Cleaning.ipynb)
@@ -19,8 +19,11 @@ Order of codes:
    - (Exploring K-Nearest Neighbours and modifications to improve the model used for prediction)
 5. [Support Vector Machine](https://github.com/appleworm34/dengue-ml/blob/main/Support%20Vector%20Machine.ipynb)
    - (Using Support Vector Machine to predict)
+6. [Slides](https://github.com/appleworm34/dengue-ml/blob/main/SC1015%20Mini%20Project.pptx)
+   - (Summary of the findings of the project)
 
 ## Background
+
 - Dengue fever is a disease caused by the dengue virus which is transmitted to humans via the bite of an infective Aedes mosquito.
 - Dengue causes a wide spectrum of disease and in some cases, lead to hospitalisation or death. 
 - Each year, an estimated 390 million dengue infections occur around the world, resulting in up to 36,000 deaths.
@@ -48,6 +51,7 @@ Order of codes:
 - Among the models we explored (Linear Regression, K-Nearest Neighbours and Support Vector Machine), SVM was the best to predict the total cases
 
 ## Data - Driven Insights
+
 - We can further explore other models apart from the ones mentioned to find the best model to predict
 - Variables did not have such an obvious relationship as we expected
 - Possible to find more data that could help improve the accuracy of prediction
