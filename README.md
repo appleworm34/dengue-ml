@@ -65,9 +65,9 @@ Order of codes:
 
 ## Contributors
 
-- Da Jie(K-Nearest Neighbours,data exploration)
-- Zack(Linear Regression,data cleaning)
-- Xavier(Support Vector Machine,data visualisation)
+- Da Jie (K-Nearest Neighbours, Data Exploration)
+- Zack (Linear Regression, Data Cleaning)
+- Xavier (Support Vector Machine, Data Visualisation)
 
 ## References
 
